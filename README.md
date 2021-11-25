@@ -1,8 +1,8 @@
 ### Henlo there 👋
 
 
-![](https://github-stats-geraldinp.vercel.app/api?username=GeraldiNP&show_icons=true&locale=it&title_color=823ca2&bg_color=010101&text_color=347a8f&icon_color=ec6a1e&border_color=3e464c&hide_border=false)
-![](https://github-stats-geraldinp.vercel.app/api/top-langs/?username=GeraldiNP&show_icons=true&locale=it&title_color=823ca2&bg_color=010101&text_color=347a8f&icon_color=ec6a1e&border_color=3e464c&hide_border=false)
+![](https://github-stats-geraldinp.vercel.app/api?username=GeraldiNP&count_private=true&show_icons=true&locale=it&title_color=823ca2&bg_color=010101&text_color=347a8f&icon_color=ec6a1e&border_color=3e464c&hide_border=false)
+![](https://github-stats-geraldinp.vercel.app/api/top-langs/?username=GeraldiNP&count_private=true&show_icons=true&locale=it&title_color=823ca2&bg_color=010101&text_color=347a8f&icon_color=ec6a1e&border_color=3e464c&hide_border=false)
 <!---
 - 👋 Hi, I’m @GeraldiNP
 - 👀 I’m interested in making code that works
